@@ -6,7 +6,7 @@ A relay server written in Rust for the following scenario:
 +-----+ Telemetry(UDP) +-------+ Telemetry(UDP) +-----+
 |     +--------------->+       +--------------->|     |
 |  A  |                | Relay |                |  B  |
-|     +<---------------+       +<---------------+    |
+|     +<---------------+       +<---------------+     |
 +-----+  Commands(TCP) +-------+ Commands(HTTP) +-----+
 ```
 
