@@ -1,4 +1,4 @@
-#Relay
+## Relay
 
 A relay server written in Rust for the following scenario:
 
